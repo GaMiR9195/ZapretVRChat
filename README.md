@@ -1,2 +1,7 @@
 # ZapretVRChat
-"zapret-discord-youtube" fork, made for VRChat, no vpn required.
+Дорогие люди, мне было больно узнать что VRChat больше не поддерживается в россие, поэтому я предоставляю вам Zapret для VRCHAT!1!1!
+
+## Дикие инстракшанс
+1. Скачать
+2. Распаковать
+3. Запустить VRCHATSUPERFIX(ALT6).bat
